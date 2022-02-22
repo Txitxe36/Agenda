@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\bin\Debug\PruebaAgenda.exe.config
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\bin\Debug\PruebaAgenda.exe
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\bin\Debug\PruebaAgenda.pdb
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\obj\Debug\PruebaAgenda.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\obj\Debug\PruebaAgenda.Form1.resources
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\obj\Debug\PruebaAgenda.Properties.Resources.resources
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\obj\Debug\PruebaAgenda.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\obj\Debug\PruebaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\obj\Debug\PruebaAgenda.exe
+C:\Users\Usuario\Desktop\visual studio 2019\PruebaAgenda\obj\Debug\PruebaAgenda.pdb
